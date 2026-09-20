@@ -1,25 +1,25 @@
-- [8-Day Krabi Itinerary — Updated Proposed Itinerary (1 Night Railay / 3 Nights Lanta)](#8-day-krabi-itinerary--updated-proposed-itinerary-1-night-railay--3-nights-lanta)
+- [8-Day Krabi Itinerary - Updated Proposed Itinerary (1 Night Railay / 3 Nights Lanta)](#8-day-krabi-itinerary---updated-proposed-itinerary-1-night-railay--3-nights-lanta)
   - [Recommended route](#recommended-route)
   - [Key changes in this updated version](#key-changes-in-this-updated-version)
     - [1. Monday 9 November now includes an island tour](#1-monday-9-november-now-includes-an-island-tour)
     - [2. Tuesday 10 November Hong Islands tour has been expanded](#2-tuesday-10-november-hong-islands-tour-has-been-expanded)
     - [3. Railay → Koh Lanta transfer updated](#3-railay--koh-lanta-transfer-updated)
   - [Hotel plan](#hotel-plan)
-  - [Day 1 — Sunday 8 Nov](#day-1--sunday-8-nov)
-    - [11:40am — Arrive at Krabi Airport](#1140am--arrive-at-krabi-airport)
-    - [1:00pm — Arrive and drop bags](#100pm--arrive-and-drop-bags)
-    - [2:00pm — Lunch + café](#200pm--lunch--café)
-    - [4:30pm — Ao Nang Beach](#430pm--ao-nang-beach)
-    - [6:00pm — Sunset drinks](#600pm--sunset-drinks)
-    - [7:30pm — Thai dinner](#730pm--thai-dinner)
+  - [Day 1 - Sunday 8 Nov](#day-1---sunday-8-nov)
+    - [11:40am - Arrive at Krabi Airport](#1140am---arrive-at-krabi-airport)
+    - [1:00pm - Arrive and drop bags](#100pm---arrive-and-drop-bags)
+    - [2:00pm - Lunch + café](#200pm---lunch--café)
+    - [4:30pm - Ao Nang Beach](#430pm---ao-nang-beach)
+    - [6:00pm - Sunset drinks](#600pm---sunset-drinks)
+    - [7:30pm - Thai dinner](#730pm---thai-dinner)
     - [Stay](#stay)
-  - [Day 2 — Monday 9 Nov](#day-2--monday-9-nov)
-  - [Option A — Krabi 4 Islands tour on Monday 9 Nov](#option-a--krabi-4-islands-tour-on-monday-9-nov)
+  - [Day 2 - Monday 9 Nov](#day-2---monday-9-nov)
+  - [Option A - Krabi 4 Islands tour on Monday 9 Nov](#option-a---krabi-4-islands-tour-on-monday-9-nov)
     - [Suggested timing if choosing Krabi 4 Islands](#suggested-timing-if-choosing-krabi-4-islands)
       - [If morning departure is available](#if-morning-departure-is-available)
       - [If only afternoon / sunset departure is available](#if-only-afternoon--sunset-departure-is-available)
     - [Anniversary dinner if doing Krabi 4 Islands](#anniversary-dinner-if-doing-krabi-4-islands)
-  - [Option B — Phi Phi Islands tour on Monday 9 Nov](#option-b--phi-phi-islands-tour-on-monday-9-nov)
+  - [Option B - Phi Phi Islands tour on Monday 9 Nov](#option-b---phi-phi-islands-tour-on-monday-9-nov)
     - [Suggested timing if choosing Phi Phi](#suggested-timing-if-choosing-phi-phi)
     - [Anniversary dinner if doing Phi Phi](#anniversary-dinner-if-doing-phi-phi)
   - [Gluten-free note for the anniversary island tour and dinner](#gluten-free-note-for-the-anniversary-island-tour-and-dinner)
@@ -46,13 +46,13 @@
   - [How each option affects your anniversary dinner](#how-each-option-affects-your-anniversary-dinner)
   - [My suggested decision rule](#my-suggested-decision-rule)
   - [Important note: island tour load](#important-note-island-tour-load)
-- [Day 3 — Tuesday 10 Nov](#day-3--tuesday-10-nov)
+- [Day 3 - Tuesday 10 Nov](#day-3---tuesday-10-nov)
   - [What to expect on the Hong Islands tour](#what-to-expect-on-the-hong-islands-tour)
   - [Likely tour timing](#likely-tour-timing)
-    - [7:00–7:30am — Depart Ao Nang](#700730am--depart-ao-nang)
-    - [8:30–9:30am — Arrive in the Hong Islands area](#830930am--arrive-in-the-hong-islands-area)
-    - [Mid-morning — Hong Lagoon](#mid-morning--hong-lagoon)
-    - [Late morning — Snorkelling stops](#late-morning--snorkelling-stops)
+    - [7:00–7:30am - Depart Ao Nang](#700730am---depart-ao-nang)
+    - [8:30–9:30am - Arrive in the Hong Islands area](#830930am---arrive-in-the-hong-islands-area)
+    - [Mid-morning - Hong Lagoon](#mid-morning---hong-lagoon)
+    - [Late morning - Snorkelling stops](#late-morning---snorkelling-stops)
     - [Lunch](#lunch)
   - [Likely stops and what they offer](#likely-stops-and-what-they-offer)
     - [Koh Hong / Hong Lagoon](#koh-hong--hong-lagoon)
@@ -63,64 +63,64 @@
   - [Gluten-free considerations](#gluten-free-considerations)
   - [What to request when booking](#what-to-request-when-booking)
   - [After the tour](#after-the-tour)
-    - [2:30–3:00pm — Return to Ao Nang](#230300pm--return-to-ao-nang)
-    - [4:30pm — Sunset](#430pm--sunset)
+    - [2:30–3:00pm - Return to Ao Nang](#230300pm---return-to-ao-nang)
+    - [4:30pm - Sunset](#430pm---sunset)
     - [Dinner](#dinner)
   - [Stay](#stay-2)
-- [Day 4 — Wednesday 11 Nov](#day-4--wednesday-11-nov)
-  - [7:30am — Ao Thalane kayaking](#730am--ao-thalane-kayaking)
-  - [1:00pm — Lunch + collect luggage](#100pm--lunch--collect-luggage)
-  - [2:00pm-ish — Transfer to Railay](#200pm-ish--transfer-to-railay)
-  - [Late afternoon — Check in + Railay West](#late-afternoon--check-in--railay-west)
+- [Day 4 - Wednesday 11 Nov](#day-4---wednesday-11-nov)
+  - [7:30am - Ao Thalane kayaking](#730am---ao-thalane-kayaking)
+  - [1:00pm - Lunch + collect luggage](#100pm---lunch--collect-luggage)
+  - [2:00pm-ish - Transfer to Railay](#200pm-ish---transfer-to-railay)
+  - [Late afternoon - Check in + Railay West](#late-afternoon---check-in--railay-west)
   - [Sunset + dinner](#sunset--dinner)
   - [Suggested Railay dinner options](#suggested-railay-dinner-options)
     - [Sunset / beachfront](#sunset--beachfront)
     - [Thai / local](#thai--local)
     - [Indian / gluten-free options](#indian--gluten-free-options)
   - [Stay](#stay-3)
-- [Day 5 — Thursday 12 Nov](#day-5--thursday-12-nov)
-  - [7:30am — Breakfast](#730am--breakfast)
-  - [8:00–9:45am — Short Railay walk or final photos](#800945am--short-railay-walk-or-final-photos)
-  - [10:00am — Check out](#1000am--check-out)
-  - [10:15am — Longtail boat from Railay to Ao Nang](#1015am--longtail-boat-from-railay-to-ao-nang)
-  - [10:45am — Arrive in Ao Nang](#1045am--arrive-in-ao-nang)
-  - [11:00am — Depart Ao Nang for Koh Lanta](#1100am--depart-ao-nang-for-koh-lanta)
-  - [1:30–2:30pm — Arrive in Koh Lanta](#130230pm--arrive-in-koh-lanta)
-  - [3:00–4:00pm — Check in and slow beach afternoon](#300400pm--check-in-and-slow-beach-afternoon)
-  - [5:30pm — Beach sunset](#530pm--beach-sunset)
-  - [7:30pm — Dinner](#730pm--dinner)
+- [Day 5 - Thursday 12 Nov](#day-5---thursday-12-nov)
+  - [7:30am - Breakfast](#730am---breakfast)
+  - [8:00–9:45am - Short Railay walk or final photos](#800945am---short-railay-walk-or-final-photos)
+  - [10:00am - Check out](#1000am---check-out)
+  - [10:15am - Longtail boat from Railay to Ao Nang](#1015am---longtail-boat-from-railay-to-ao-nang)
+  - [10:45am - Arrive in Ao Nang](#1045am---arrive-in-ao-nang)
+  - [11:00am - Depart Ao Nang for Koh Lanta](#1100am---depart-ao-nang-for-koh-lanta)
+  - [1:30–2:30pm - Arrive in Koh Lanta](#130230pm---arrive-in-koh-lanta)
+  - [3:00–4:00pm - Check in and slow beach afternoon](#300400pm---check-in-and-slow-beach-afternoon)
+  - [5:30pm - Beach sunset](#530pm---beach-sunset)
+  - [7:30pm - Dinner](#730pm---dinner)
   - [Stay](#stay-4)
-- [Day 6 — Friday 13 Nov](#day-6--friday-13-nov)
-  - [8:30am — Breakfast](#830am--breakfast)
-  - [10:00am — Lanta Old Town](#1000am--lanta-old-town)
+- [Day 6 - Friday 13 Nov](#day-6---friday-13-nov)
+  - [8:30am - Breakfast](#830am---breakfast)
+  - [10:00am - Lanta Old Town](#1000am---lanta-old-town)
   - [Lunch](#lunch-1)
-  - [Afternoon — Flexible island time](#afternoon--flexible-island-time)
+  - [Afternoon - Flexible island time](#afternoon---flexible-island-time)
     - [Relaxed option](#relaxed-option)
     - [Light adventure option](#light-adventure-option)
-  - [5:30pm — Sunset](#530pm--sunset)
-  - [7:30pm — Dinner](#730pm--dinner-1)
+  - [5:30pm - Sunset](#530pm---sunset)
+  - [7:30pm - Dinner](#730pm---dinner-1)
   - [Stay](#stay-5)
-- [Day 7 — Saturday 14 Nov](#day-7--saturday-14-nov)
-  - [Early morning — Depart Koh Lanta](#early-morning--depart-koh-lanta)
+- [Day 7 - Saturday 14 Nov](#day-7---saturday-14-nov)
+  - [Early morning - Depart Koh Lanta](#early-morning---depart-koh-lanta)
   - [Activities](#activities)
   - [Important](#important)
-  - [5:00pm — Return to resort](#500pm--return-to-resort)
+  - [5:00pm - Return to resort](#500pm---return-to-resort)
   - [Gluten-free](#gluten-free)
   - [Dinner](#dinner-1)
   - [Optional adjustment if you feel over-toured](#optional-adjustment-if-you-feel-over-toured)
   - [Stay](#stay-6)
-- [Day 8 — Sunday 15 Nov](#day-8--sunday-15-nov)
-  - [8:00am — Breakfast](#800am--breakfast)
-  - [9:00–11:00am — Beach / pool / final photos](#9001100am--beach--pool--final-photos)
-  - [11:00am — Check out](#1100am--check-out)
-  - [Around 12:00–12:30pm — Leave Koh Lanta](#around-12001230pm--leave-koh-lanta)
-  - [3:00–3:15pm — Aim to arrive at airport](#300315pm--aim-to-arrive-at-airport)
+- [Day 8 - Sunday 15 Nov](#day-8---sunday-15-nov)
+  - [8:00am - Breakfast](#800am---breakfast)
+  - [9:00–11:00am - Beach / pool / final photos](#9001100am---beach--pool--final-photos)
+  - [11:00am - Check out](#1100am---check-out)
+  - [Around 12:00–12:30pm - Leave Koh Lanta](#around-12001230pm---leave-koh-lanta)
+  - [3:00–3:15pm - Aim to arrive at airport](#300315pm---aim-to-arrive-at-airport)
 - [Recommended stays](#recommended-stays)
-  - [Ao Nang — 8–10 Nov](#ao-nang--810-nov)
+  - [Ao Nang - 8–10 Nov](#ao-nang---810-nov)
     - [Best value](#best-value)
     - [Alternative](#alternative)
-  - [Railay — 11 Nov](#railay--11-nov)
-  - [Koh Lanta — 12–14 Nov](#koh-lanta--1214-nov)
+  - [Railay - 11 Nov](#railay---11-nov)
+  - [Koh Lanta - 12–14 Nov](#koh-lanta---1214-nov)
     - [Best fit](#best-fit)
     - [Alternative](#alternative-1)
 - [Food hit list](#food-hit-list)
@@ -163,7 +163,7 @@
   - [Early November schedules](#early-november-schedules)
   - [Anniversary dinner timing](#anniversary-dinner-timing)
 
-# 8-Day Krabi Itinerary — Updated Proposed Itinerary (1 Night Railay / 3 Nights Lanta)
+# 8-Day Krabi Itinerary - Updated Proposed Itinerary (1 Night Railay / 3 Nights Lanta)
 
 Dates: 8–15 November 2026
 Travellers: Couple, age 24
@@ -242,31 +242,31 @@ This avoids relying on uncertain direct boat services between Railay and Koh Lan
 
 ---
 
-## Day 1 — Sunday 8 Nov
+## Day 1 - Sunday 8 Nov
 
 Arrival → Ao Nang → sunset
 
-### 11:40am — Arrive at Krabi Airport
+### 11:40am - Arrive at Krabi Airport
 
 Take a pre-booked transfer or taxi directly to Ao Nang.
 
-### 1:00pm — Arrive and drop bags
+### 1:00pm - Arrive and drop bags
 
 Check into your Ao Nang hotel.
 
-### 2:00pm — Lunch + café
+### 2:00pm - Lunch + café
 
 Try Shatterbox Kitchen & Bar or another modern Ao Nang café.
 
-### 4:30pm — Ao Nang Beach
+### 4:30pm - Ao Nang Beach
 
 Take a relaxed beachfront walk.
 
-### 6:00pm — Sunset drinks
+### 6:00pm - Sunset drinks
 
 Find a beachfront bar or café and ease into the holiday.
 
-### 7:30pm — Thai dinner
+### 7:30pm - Thai dinner
 
 Try Jungle Kitchen for a more local-feeling meal rather than eating directly on the busiest tourist strip.
 
@@ -277,7 +277,7 @@ Alternative: COSI Krabi Ao Nang Beach
 
 ---
 
-## Day 2 — Monday 9 Nov
+## Day 2 - Monday 9 Nov
 
 💕 6-month anniversary
 Island tour + anniversary dinner
@@ -292,7 +292,7 @@ Because this is also your anniversary day, the best approach is to choose a tour
 
 ---
 
-## Option A — Krabi 4 Islands tour on Monday 9 Nov
+## Option A - Krabi 4 Islands tour on Monday 9 Nov
 
 Best for:
 
@@ -313,24 +313,24 @@ Possible stops:
 
 #### If morning departure is available
 
-8:00am — Slow breakfast
-9:00am — Tour pickup / departure
-9:30am–1:30pm — Krabi 4 Islands tour
-2:00pm — Return to hotel, shower and rest
-4:30pm — Head out for sunset
-5:30pm — Anniversary sunset dinner
+8:00am - Slow breakfast
+9:00am - Tour pickup / departure
+9:30am–1:30pm - Krabi 4 Islands tour
+2:00pm - Return to hotel, shower and rest
+4:30pm - Head out for sunset
+5:30pm - Anniversary sunset dinner
 
 This is the best version if you still want a proper sunset anniversary dinner.
 
 #### If only afternoon / sunset departure is available
 
-8:00am — Slow breakfast
-9:30am — Café time, beach walk or massage
-12:00pm — Light lunch
-12:30–1:30pm — Tour pickup / departure
-1:30–6:30pm — Krabi 4 Islands tour
-7:00pm — Return to hotel and freshen up
-8:00pm — Anniversary dinner
+8:00am - Slow breakfast
+9:30am - Café time, beach walk or massage
+12:00pm - Light lunch
+12:30–1:30pm - Tour pickup / departure
+1:30–6:30pm - Krabi 4 Islands tour
+7:00pm - Return to hotel and freshen up
+8:00pm - Anniversary dinner
 
 This version works well if you are happy to have a later anniversary dinner rather than a sunset dinner.
 
@@ -352,7 +352,7 @@ Good options:
 
 ---
 
-## Option B — Phi Phi Islands tour on Monday 9 Nov
+## Option B - Phi Phi Islands tour on Monday 9 Nov
 
 Best for:
 
@@ -374,16 +374,16 @@ Possible stops:
 
 ### Suggested timing if choosing Phi Phi
 
-6:45am — Breakfast / get ready
-7:00–7:45am — Pickup from Ao Nang
-8:00am — Depart by speedboat
-9:30am–12:30pm — Phi Phi Leh sights and snorkelling
-12:30–1:30pm — Lunch
-1:30–3:30pm — More snorkelling, beach time or Phi Phi Don time
-4:00–5:00pm — Return to Ao Nang
-5:30pm — Freshen up
-6:00pm — Sunset drinks / early anniversary dinner if timing works
-7:30pm — Anniversary dinner
+6:45am - Breakfast / get ready
+7:00–7:45am - Pickup from Ao Nang
+8:00am - Depart by speedboat
+9:30am–12:30pm - Phi Phi Leh sights and snorkelling
+12:30–1:30pm - Lunch
+1:30–3:30pm - More snorkelling, beach time or Phi Phi Don time
+4:00–5:00pm - Return to Ao Nang
+5:30pm - Freshen up
+6:00pm - Sunset drinks / early anniversary dinner if timing works
+7:30pm - Anniversary dinner
 
 ### Anniversary dinner if doing Phi Phi
 
@@ -669,7 +669,7 @@ Possible adjustment:
 
 ---
 
-# Day 3 — Tuesday 10 Nov
+# Day 3 - Tuesday 10 Nov
 
 Ao Nang 🐠 Hong Islands + snorkelling
 
@@ -694,7 +694,7 @@ This is a good tour for your travel style because it is adventurous without bein
 
 ## Likely tour timing
 
-### 7:00–7:30am — Depart Ao Nang
+### 7:00–7:30am - Depart Ao Nang
 
 Book a small-group Hong Islands tour rather than a large party boat.
 
@@ -707,7 +707,7 @@ Look for an itinerary including:
 - Beach time
 - Lunch
 
-### 8:30–9:30am — Arrive in the Hong Islands area
+### 8:30–9:30am - Arrive in the Hong Islands area
 
 Depending on the operator, you may start with:
 
@@ -716,7 +716,7 @@ Depending on the operator, you may start with:
 - Beach time
 - Kayaking, if included
 
-### Mid-morning — Hong Lagoon
+### Mid-morning - Hong Lagoon
 
 The Hong Lagoon is one of the highlights.
 
@@ -729,7 +729,7 @@ Expect:
 
 Access to the lagoon can depend on tide and conditions, so your guide may adjust the order of stops.
 
-### Late morning — Snorkelling stops
+### Late morning - Snorkelling stops
 
 Likely snorkelling areas may include:
 
@@ -850,11 +850,11 @@ Ask for:
 
 ## After the tour
 
-### 2:30–3:00pm — Return to Ao Nang
+### 2:30–3:00pm - Return to Ao Nang
 
 Shower, nap and relax.
 
-### 4:30pm — Sunset
+### 4:30pm - Sunset
 
 If you have the energy, head to Khaothong Hill for elevated views over the limestone islands.
 
@@ -873,7 +873,7 @@ Alternative: COSI Krabi Ao Nang Beach
 
 ---
 
-# Day 4 — Wednesday 11 Nov
+# Day 4 - Wednesday 11 Nov
 
 Ao Thalane kayaking → Railay
 
@@ -883,7 +883,7 @@ Because you are only staying one night in Railay, keep your luggage practical. R
 
 ---
 
-## 7:30am — Ao Thalane kayaking
+## 7:30am - Ao Thalane kayaking
 
 Book a guided kayaking experience.
 
@@ -899,13 +899,13 @@ This is a great activity for your travel style because it feels adventurous with
 
 ---
 
-## 1:00pm — Lunch + collect luggage
+## 1:00pm - Lunch + collect luggage
 
 Return toward Ao Nang, have lunch and collect your bags.
 
 ---
 
-## 2:00pm-ish — Transfer to Railay
+## 2:00pm-ish - Transfer to Railay
 
 Use the simplest confirmed boat/longtail connection available from Ao Nang to Railay.
 
@@ -913,7 +913,7 @@ Because boat services can be seasonal, confirm the exact 11 November service bef
 
 ---
 
-## Late afternoon — Check in + Railay West
+## Late afternoon - Check in + Railay West
 
 Check into your Railay hotel, drop your bags and head straight out for a gentle first walk.
 
@@ -959,7 +959,7 @@ Even where gluten-free options are listed, still confirm preparation practices b
 
 ## Stay
 
-Railay hotel/resort — 1 night
+Railay hotel/resort - 1 night
 
 Choose a Railay hotel/resort that prioritises:
 
@@ -973,7 +973,7 @@ Because this is only one night, choose somewhere convenient and not overly diffi
 
 ---
 
-# Day 5 — Thursday 12 Nov
+# Day 5 - Thursday 12 Nov
 
 Railay morning → Railay to Ao Nang → Grab / taxi to Koh Lanta
 
@@ -987,13 +987,13 @@ This avoids relying on uncertain direct boat services between Railay and Koh Lan
 
 ---
 
-## 7:30am — Breakfast
+## 7:30am - Breakfast
 
 Have a relaxed breakfast.
 
 ---
 
-## 8:00–9:45am — Short Railay walk or final photos
+## 8:00–9:45am - Short Railay walk or final photos
 
 Use this time for the highlights you most want to see.
 
@@ -1009,7 +1009,7 @@ Skip the Railay viewpoint/lagoon scramble because it is a slippery, rope-assiste
 
 ---
 
-## 10:00am — Check out
+## 10:00am - Check out
 
 Pack up and leave some buffer for the transfer.
 
@@ -1017,7 +1017,7 @@ Keep luggage manageable because Railay is boat-access only and boarding may invo
 
 ---
 
-## 10:15am — Longtail boat from Railay to Ao Nang
+## 10:15am - Longtail boat from Railay to Ao Nang
 
 Take a longtail boat from Railay to Ao Nang.
 
@@ -1034,7 +1034,7 @@ Practical notes:
 
 ---
 
-## 10:45am — Arrive in Ao Nang
+## 10:45am - Arrive in Ao Nang
 
 Meet your Grab / taxi / private transfer.
 
@@ -1058,7 +1058,7 @@ If Grab is not available, use:
 
 ---
 
-## 11:00am — Depart Ao Nang for Koh Lanta
+## 11:00am - Depart Ao Nang for Koh Lanta
 
 The drive from Ao Nang to Koh Lanta is usually around 2 hours to 2 hours 45 minutes, depending on traffic, road conditions and your exact drop-off point.
 
@@ -1066,7 +1066,7 @@ Koh Lanta is connected by road via bridges, so this is usually a road transfer r
 
 ---
 
-## 1:30–2:30pm — Arrive in Koh Lanta
+## 1:30–2:30pm - Arrive in Koh Lanta
 
 Aim to stay around Long Beach or Klong Dao for easy access to:
 
@@ -1079,7 +1079,7 @@ Aim to stay around Long Beach or Klong Dao for easy access to:
 
 ---
 
-## 3:00–4:00pm — Check in and slow beach afternoon
+## 3:00–4:00pm - Check in and slow beach afternoon
 
 Do not schedule another major activity today.
 
@@ -1093,7 +1093,7 @@ Good options:
 
 ---
 
-## 5:30pm — Beach sunset
+## 5:30pm - Beach sunset
 
 This is your first Koh Lanta sunset.
 
@@ -1104,27 +1104,27 @@ Good spots:
 
 ---
 
-## 7:30pm — Dinner
+## 7:30pm - Dinner
 
 Keep the evening relaxed.
 
 Good options:
 
-- Cozy Restaurant — good gluten-free-friendly option, but still confirm preparation
-- Rareview — waterfront / photos
-- Yang Garden Restaurant — stylish / fusion
-- Nomad Beach Bar Koh Lanta — beachy / trendy
+- Cozy Restaurant - good gluten-free-friendly option, but still confirm preparation
+- Rareview - waterfront / photos
+- Yang Garden Restaurant - stylish / fusion
+- Nomad Beach Bar Koh Lanta - beachy / trendy
 
 ---
 
 ## Stay
 
-Long Beach Chalet — Night 1 of 3
+Long Beach Chalet - Night 1 of 3
 Alternative: Coco Lanta Resort
 
 ---
 
-# Day 6 — Friday 13 Nov
+# Day 6 - Friday 13 Nov
 
 Koh Lanta culture, Old Town + sunset day
 
@@ -1132,13 +1132,13 @@ This is the day that benefits most from having three nights on Koh Lanta. Instea
 
 ---
 
-## 8:30am — Breakfast
+## 8:30am - Breakfast
 
 Have a slow breakfast at the resort.
 
 ---
 
-## 10:00am — Lanta Old Town
+## 10:00am - Lanta Old Town
 
 Head to Lanta Old Town by scooter, taxi or private transfer.
 
@@ -1169,7 +1169,7 @@ For gluten-free needs, confirm sauces, marinades, frying oil and cross-contamina
 
 ---
 
-## Afternoon — Flexible island time
+## Afternoon - Flexible island time
 
 Choose one depending on energy levels.
 
@@ -1194,7 +1194,7 @@ Keep it light. This is not meant to be another exhausting tour day.
 
 ---
 
-## 5:30pm — Sunset
+## 5:30pm - Sunset
 
 Good sunset options:
 
@@ -1204,26 +1204,26 @@ Good sunset options:
 
 ---
 
-## 7:30pm — Dinner
+## 7:30pm - Dinner
 
 Make this a nice but relaxed evening.
 
 Suggested options:
 
-- Yang Garden Restaurant — stylish / fusion
-- Nomad Beach Bar Koh Lanta — beachy / trendy
-- Cozy Restaurant — practical gluten-free-friendly option
+- Yang Garden Restaurant - stylish / fusion
+- Nomad Beach Bar Koh Lanta - beachy / trendy
+- Cozy Restaurant - practical gluten-free-friendly option
 
 ---
 
 ## Stay
 
-Long Beach Chalet — Night 2 of 3
+Long Beach Chalet - Night 2 of 3
 Alternative: Coco Lanta Resort
 
 ---
 
-# Day 7 — Saturday 14 Nov
+# Day 7 - Saturday 14 Nov
 
 Koh Lanta 4 Islands + Emerald Cave
 
@@ -1243,7 +1243,7 @@ This Koh Lanta tour usually focuses on islands such as:
 
 ---
 
-## Early morning — Depart Koh Lanta
+## Early morning - Depart Koh Lanta
 
 Book a Koh Lanta 4 Islands / Emerald Cave tour.
 
@@ -1275,7 +1275,7 @@ Bring a waterproof phone pouch for the Emerald Cave swim.
 
 ---
 
-## 5:00pm — Return to resort
+## 5:00pm - Return to resort
 
 Do nothing.
 
@@ -1323,12 +1323,12 @@ Keep the Koh Lanta 4 Islands + Emerald Cave tour if you want one final adventuro
 
 ## Stay
 
-Long Beach Chalet — Night 3 of 3
+Long Beach Chalet - Night 3 of 3
 Alternative: Coco Lanta Resort
 
 ---
 
-# Day 8 — Sunday 15 Nov
+# Day 8 - Sunday 15 Nov
 
 Koh Lanta morning → Krabi Airport
 
@@ -1338,13 +1338,13 @@ Your flight is not until 5:30pm, so use the morning as the wind-down.
 
 ---
 
-## 8:00am — Breakfast
+## 8:00am - Breakfast
 
 Have a slow breakfast at the resort.
 
 ---
 
-## 9:00–11:00am — Beach / pool / final photos
+## 9:00–11:00am - Beach / pool / final photos
 
 Choose whichever feels nicest:
 
@@ -1356,13 +1356,13 @@ Choose whichever feels nicest:
 
 ---
 
-## 11:00am — Check out
+## 11:00am - Check out
 
 Have an early lunch before leaving the island.
 
 ---
 
-## Around 12:00–12:30pm — Leave Koh Lanta
+## Around 12:00–12:30pm - Leave Koh Lanta
 
 Take a pre-booked private or shared minivan transfer toward Krabi Airport.
 
@@ -1370,7 +1370,7 @@ Build in a generous road-transfer buffer rather than trying to make the afternoo
 
 ---
 
-## 3:00–3:15pm — Aim to arrive at airport
+## 3:00–3:15pm - Aim to arrive at airport
 
 This gives you a comfortable buffer before your 5:30pm flight.
 
@@ -1378,7 +1378,7 @@ This gives you a comfortable buffer before your 5:30pm flight.
 
 # Recommended stays
 
-## Ao Nang — 8–10 Nov
+## Ao Nang - 8–10 Nov
 
 ### Best value
 
@@ -1392,7 +1392,7 @@ Both are convenient for restaurants, cafés and island tours.
 
 ---
 
-## Railay — 11 Nov
+## Railay - 11 Nov
 
 Choose a Railay hotel/resort for 1 night only.
 
@@ -1408,7 +1408,7 @@ Because this is only one night, choose somewhere convenient and not overly diffi
 
 ---
 
-## Koh Lanta — 12–14 Nov
+## Koh Lanta - 12–14 Nov
 
 ### Best fit
 
