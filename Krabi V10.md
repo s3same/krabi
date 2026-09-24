@@ -80,19 +80,19 @@ Next morning:
 
 ## Departure Dates
 
-| Time                   | Airport                                 | Duration                                            |
-| ---------------------- | --------------------------------------- | --------------------------------------------------- |
-| Sat 7 Nov 13:25 (AEST) | SYD Kingsford Smith Airport, Terminal 1 | 8h 15m                                              |
-| Sat 7 Nov 18:40 (SGT)  | SIN Changi Airport, Terminal 1          | Singapore overnight at Carlton City Hotel Singapore |
-| Sun 8 Nov 10:55 (SGT)  | SIN Changi Airport, Terminal 1          | 1h 50m                                              |
-| Sun 8 Nov 11:40 (ICT)  | KBV Krabi Airport, Terminal 3           | Arrive                                              |
+| Time                   | Airport                                 | Duration  |
+| ---------------------- | --------------------------------------- | --------- |
+| Sat 7 Nov 13:25 (AEST) | SYD Kingsford Smith Airport, Terminal 1 | 8h 15m    |
+| Sat 7 Nov 18:40 (SGT)  | SIN Changi Airport, Terminal 1          | 16h 15min |
+| Sun 8 Nov 10:55 (SGT)  | SIN Changi Airport, Terminal 1          | 1h 50m    |
+| Sun 8 Nov 11:45 (ICT)  | KBV Krabi Airport, Terminal 3           | Arrive    |
 
 ## Return Dates
 
 | Time                    | Airport                                 | Duration |
 | ----------------------- | --------------------------------------- | -------- |
-| Sun 15 Nov 17:30 (ICT)  | KBV Krabi Airport, Terminal 3           | 2h 0m    |
-| Sun 15 Nov 20:30 (SGT)  | SIN Changi Airport, Terminal 1          | 4h 45m   |
+| Sun 15 Nov 12:20 (ICT)  | KBV Krabi Airport, Terminal 3           | 2h 0m    |
+| Sun 15 Nov 15:20 (SGT)  | SIN Changi Airport, Terminal 1          | 9h 55m   |
 | Mon 16 Nov 01:15 (SGT)  | SIN Changi Airport, Terminal 1          | 7h 55m   |
 | Mon 16 Nov 12:10 (AEST) | SYD Kingsford Smith Airport, Terminal 1 | Arrive   |
 
