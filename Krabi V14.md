@@ -941,17 +941,24 @@ Contact restaurants ahead of time, especially for the **Day 1 anniversary dinner
 - **Ko Lanta**: `12 - 14 Nov`
 - **Mahutsachan Khlong Thom**: `15 Nov`
 
-| Date           | Wake Up | Start → End of day                            | Planned Check-in | Planned Check-out  | Main plan                                                                         |
-| -------------- | ------- | --------------------------------------------- | ---------------- | ------------------ | --------------------------------------------------------------------------------- |
-| **Sat 7 Nov**  | -       | **Sydney Airport → Carlton City Hotel**       | **7:45pm**       | **8 Nov, 8:15am**  | Sydney → Singapore → Carlton City Hotel + Maxwell Food Centre                     |
-| **Sun 8 Nov**  | -       | **Krabi Airport → Ao Nang hotel**             | **1:00pm**       | -                  | Krabi Airport → Ao Nang arrival + 💕 Anniversary Dinner                           |
-| **Mon 9 Nov**  | 7:30am  | **Ao Nang hotel → Ao Nang hotel**             | -                | -                  | **Krabi 4 Islands Tour** + relaxed Thai dinner                                    |
-| **Tue 10 Nov** | 9:00am  | **Ao Nang hotel → Ao Nang hotel**             | -                | -                  | **Beach club day + day bed / lounger + sun + relaxed dinner**                     |
-| **Wed 11 Nov** | 7:30am  | **Ao Nang hotel → Ao Nang hotel**             | -                | -                  | **Hong Islands Tour (6hrs)** + easy evening                                       |
-| **Thu 12 Nov** | 7:30am  | **Ao Nang hotel → Koh Lanta hotel**           | **3:30–4:00pm**  | -                  | **Checkout + Klong Root (Crystal Lagoon) Kayaking + Travel to Koh Lanta**         |
-| **Fri 13 Nov** | 7:00am  | **Koh Lanta hotel → Koh Lanta hotel**         | -                | -                  | **Koh Lanta 4 Islands + Emerald Cave Tour** + final island dinner                 |
-| **Sat 14 Nov** | 9:00am  | **Koh Lanta hotel → Mahutsachan Khlong Thom** | **2:00pm**       | **15 Nov, 8:00am** | **Koh Lanta morning → Mahutsachan Khlong Thom check-in + spa / hot springs**      |
-| **Sun 15 Nov** | 6:00am  | **Mahutsachan Khlong Thom → Krabi Airport**   | -                | **8:00am**         | **Early Mahutsachan morning → early checkout → Krabi Airport for 12:20pm flight** |
+Hotels
+
+- [Carlton City Hotel Singapore](https://maps.app.goo.gl/hzLPk2gmTy1PLtyB9)
+- [Aspira Escape Ao Nang Krabi](https://maps.app.goo.gl/67zfP4v2Z5zBuhcQ7)
+- [Verona Lanta Resort](https://maps.app.goo.gl/hz2ZxBcm4ju2RTNt7)
+- [Mahutsachan Khlong Thom](https://maps.app.goo.gl/Kg4JqUJKzrhZp3jg8)
+
+| Date           | Wake Up | Start → End of day                                                  | Planned Check-in | Planned Check-out  | Main plan                                                                         |
+| -------------- | ------- | ------------------------------------------------------------------- | ---------------- | ------------------ | --------------------------------------------------------------------------------- |
+| **Sat 7 Nov**  | -       | **Sydney Airport → Carlton City Hotel**                             | **7:45pm**       | **8 Nov, 8:15am**  | Sydney → Singapore → Carlton City Hotel + Maxwell Food Centre                     |
+| **Sun 8 Nov**  | -       | **Krabi Airport → Aspira Escape Ao Nang**                           | **1:00pm**       | -                  | Krabi Airport → Ao Nang arrival + 💕 Anniversary Dinner                           |
+| **Mon 9 Nov**  | 7:30am  | **Aspira Escape Ao Nang → Aspira Escape Ao Nang**                   | -                | -                  | **Krabi 4 Islands Tour** + relaxed Thai dinner                                    |
+| **Tue 10 Nov** | 9:00am  | **Aspira Escape Ao Nang → Aspira Escape Ao Nang**                   | -                | -                  | **Beach club day + day bed / lounger + sun + relaxed dinner**                     |
+| **Wed 11 Nov** | 7:30am  | **Aspira Escape Ao Nang → Aspira Escape Ao Nang**                   | -                | -                  | **Hong Islands Tour (6hrs)** + easy evening                                       |
+| **Thu 12 Nov** | 7:30am  | **Aspira Escape Ao Nang → Verona Lanta Resort (Ko Lanta)**          | **3:30–4:00pm**  | -                  | **Checkout + Klong Root (Crystal Lagoon) Kayaking + Travel to Koh Lanta**         |
+| **Fri 13 Nov** | 7:00am  | **Verona Lanta Resort (Ko Lanta) → Verona Lanta Resort (Ko Lanta)** | -                | -                  | **Koh Lanta 4 Islands + Emerald Cave Tour** + final island dinner                 |
+| **Sat 14 Nov** | 9:00am  | **Verona Lanta Resort (Ko Lanta) → Mahutsachan Khlong Thom**        | **2:00pm**       | **15 Nov, 8:00am** | **Koh Lanta morning → Mahutsachan Khlong Thom check-in + spa / hot springs**      |
+| **Sun 15 Nov** | 6:00am  | **Mahutsachan Khlong Thom → Krabi Airport**                         | -                | **8:00am**         | **Early Mahutsachan morning → early checkout → Krabi Airport for 12:20pm flight** |
 
 # Important Logistical Notes
 
