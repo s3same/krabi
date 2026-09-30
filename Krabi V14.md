@@ -936,6 +936,11 @@ Contact restaurants ahead of time, especially for the **Day 1 anniversary dinner
 
 # Trip at a Glance
 
+- **Singapore**: `7 Nov`
+- **Ao Nang**: `8 - 12 Nov`
+- **Ko Lanta**: `12 - 14 Nov`
+- **Mahutsachan Khlong Thom**: `15 Nov`
+
 | Date       | Wake Up | Start → End of day                            | Planned Check-in | Planned Check-out  | Main plan                                                                         |
 | ---------- | ------- | --------------------------------------------- | ---------------- | ------------------ | --------------------------------------------------------------------------------- |
 | **7 Nov**  | -       | **Sydney Airport → Carlton City Hotel**       | **7:45pm**       | **8 Nov, 8:15am**  | Sydney → Singapore → Carlton City Hotel + Maxwell Food Centre                     |
