@@ -941,17 +941,17 @@ Contact restaurants ahead of time, especially for the **Day 1 anniversary dinner
 - **Ko Lanta**: `12 - 14 Nov`
 - **Mahutsachan Khlong Thom**: `15 Nov`
 
-| Date       | Wake Up | Start → End of day                            | Planned Check-in | Planned Check-out  | Main plan                                                                         |
-| ---------- | ------- | --------------------------------------------- | ---------------- | ------------------ | --------------------------------------------------------------------------------- |
-| **7 Nov**  | -       | **Sydney Airport → Carlton City Hotel**       | **7:45pm**       | **8 Nov, 8:15am**  | Sydney → Singapore → Carlton City Hotel + Maxwell Food Centre                     |
-| **8 Nov**  | -       | **Krabi Airport → Ao Nang hotel**             | **1:00pm**       | -                  | Krabi Airport → Ao Nang arrival + 💕 Anniversary Dinner                           |
-| **9 Nov**  | 7:30am  | **Ao Nang hotel → Ao Nang hotel**             | -                | -                  | **Krabi 4 Islands Tour** + relaxed Thai dinner                                    |
-| **10 Nov** | 9:00am  | **Ao Nang hotel → Ao Nang hotel**             | -                | -                  | **Beach club day + day bed / lounger + sun + relaxed dinner**                     |
-| **11 Nov** | 7:30am  | **Ao Nang hotel → Ao Nang hotel**             | -                | -                  | **Hong Islands Tour (6hrs)** + easy evening                                       |
-| **12 Nov** | 7:30am  | **Ao Nang hotel → Koh Lanta hotel**           | **3:30–4:00pm**  | -                  | **Checkout + Klong Root (Crystal Lagoon) Kayaking + Travel to Koh Lanta**         |
-| **13 Nov** | 7:00am  | **Koh Lanta hotel → Koh Lanta hotel**         | -                | -                  | **Koh Lanta 4 Islands + Emerald Cave Tour** + final island dinner                 |
-| **14 Nov** | 9:00am  | **Koh Lanta hotel → Mahutsachan Khlong Thom** | **2:00pm**       | **15 Nov, 8:00am** | **Koh Lanta morning → Mahutsachan Khlong Thom check-in + spa / hot springs**      |
-| **15 Nov** | 6:00am  | **Mahutsachan Khlong Thom → Krabi Airport**   | -                | **8:00am**         | **Early Mahutsachan morning → early checkout → Krabi Airport for 12:20pm flight** |
+| Date           | Wake Up | Start → End of day                            | Planned Check-in | Planned Check-out  | Main plan                                                                         |
+| -------------- | ------- | --------------------------------------------- | ---------------- | ------------------ | --------------------------------------------------------------------------------- |
+| **Sat 7 Nov**  | -       | **Sydney Airport → Carlton City Hotel**       | **7:45pm**       | **8 Nov, 8:15am**  | Sydney → Singapore → Carlton City Hotel + Maxwell Food Centre                     |
+| **Sun 8 Nov**  | -       | **Krabi Airport → Ao Nang hotel**             | **1:00pm**       | -                  | Krabi Airport → Ao Nang arrival + 💕 Anniversary Dinner                           |
+| **Mon 9 Nov**  | 7:30am  | **Ao Nang hotel → Ao Nang hotel**             | -                | -                  | **Krabi 4 Islands Tour** + relaxed Thai dinner                                    |
+| **Tue 10 Nov** | 9:00am  | **Ao Nang hotel → Ao Nang hotel**             | -                | -                  | **Beach club day + day bed / lounger + sun + relaxed dinner**                     |
+| **Wed 11 Nov** | 7:30am  | **Ao Nang hotel → Ao Nang hotel**             | -                | -                  | **Hong Islands Tour (6hrs)** + easy evening                                       |
+| **Thu 12 Nov** | 7:30am  | **Ao Nang hotel → Koh Lanta hotel**           | **3:30–4:00pm**  | -                  | **Checkout + Klong Root (Crystal Lagoon) Kayaking + Travel to Koh Lanta**         |
+| **Fri 13 Nov** | 7:00am  | **Koh Lanta hotel → Koh Lanta hotel**         | -                | -                  | **Koh Lanta 4 Islands + Emerald Cave Tour** + final island dinner                 |
+| **Sat 14 Nov** | 9:00am  | **Koh Lanta hotel → Mahutsachan Khlong Thom** | **2:00pm**       | **15 Nov, 8:00am** | **Koh Lanta morning → Mahutsachan Khlong Thom check-in + spa / hot springs**      |
+| **Sun 15 Nov** | 6:00am  | **Mahutsachan Khlong Thom → Krabi Airport**   | -                | **8:00am**         | **Early Mahutsachan morning → early checkout → Krabi Airport for 12:20pm flight** |
 
 # Important Logistical Notes
 
