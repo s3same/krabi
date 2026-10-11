@@ -945,7 +945,7 @@ Hotels
 
 - [Carlton City Hotel Singapore](https://maps.app.goo.gl/hzLPk2gmTy1PLtyB9)
 - [Aspira Escape Ao Nang Krabi](https://maps.app.goo.gl/67zfP4v2Z5zBuhcQ7)
-- [Verona Lanta Resort](https://maps.app.goo.gl/hz2ZxBcm4ju2RTNt7)
+- [Lanta Sand Resort & Spa](https://maps.app.goo.gl/oKWM3K9sWsXwrHzJ7)
 - [Mahutsachan Khlong Thom](https://maps.app.goo.gl/Kg4JqUJKzrhZp3jg8)
 
 | Date           | Start → End of day                      | Hotel                   | Wake Up | Planned Check-in | Planned Check-out  | Main plan                                                                         |
@@ -955,8 +955,8 @@ Hotels
 | **Mon 9 Nov**  | **Ao Nang → Ao Nang**                   | Aspira Escape Ao Nang   | 7:30am  | -                | -                  | **Krabi 4 Islands Tour** + relaxed Thai dinner                                    |
 | **Tue 10 Nov** | **Ao Nang → Ao Nang**                   | Aspira Escape Ao Nang   | 9:00am  | -                | -                  | **Beach club day + day bed / lounger + sun + relaxed dinner**                     |
 | **Wed 11 Nov** | **Ao Nang → Ao Nang**                   | Aspira Escape Ao Nang   | 7:30am  | -                | -                  | **Hong Islands Tour (6hrs)** + easy evening                                       |
-| **Thu 12 Nov** | **Ao Nang → Ko Lanta**                  | Verona Lanta Resort     | 7:30am  | **3:30–4:00pm**  | -                  | **Checkout + Klong Root (Crystal Lagoon) Kayaking + Travel to Koh Lanta**         |
-| **Fri 13 Nov** | **Ko Lanta → (Ko Lanta)**               | Verona Lanta Resort     | 7:00am  | -                | -                  | **Koh Lanta 4 Islands + Emerald Cave Tour** + final island dinner                 |
+| **Thu 12 Nov** | **Ao Nang → Ko Lanta**                  | Lanta Sand Resort & Spa | 7:30am  | **3:30–4:00pm**  | -                  | **Checkout + Klong Root (Crystal Lagoon) Kayaking + Travel to Koh Lanta**         |
+| **Fri 13 Nov** | **Ko Lanta → (Ko Lanta)**               | Lanta Sand Resort & Spa | 7:00am  | -                | -                  | **Koh Lanta 4 Islands + Emerald Cave Tour** + final island dinner                 |
 | **Sat 14 Nov** | **Ko Lanta → Khlong Thom**              | Mahutsachan Khlong Thom | 9:00am  | **2:00pm**       | **15 Nov, 8:00am** | **Koh Lanta morning → Mahutsachan Khlong Thom check-in + spa / hot springs**      |
 | **Sun 15 Nov** | **Khlong Thom → Krabi Airport**         | -                       | 6:00am  | -                | **8:00am**         | **Early Mahutsachan morning → early checkout → Krabi Airport for 12:20pm flight** |
 | **Mon 16 Nov** | **Singapore Airport -> Sydney Airport** | -                       | -       | -                |                    |                                                                                   |
